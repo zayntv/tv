@@ -1,0 +1,2258 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="http://x1.cdn.broiptv.com/img/champions1.png" group-title="SPORTS", Sport TV 1
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1,MTV
+http://pluto-live.plutotv.net:80/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1,Rock Action
+http://45.126.83.51/dr9445/h/h15/index.m3u8
+
+#EXTINF:-1,Rock Entertainment
+http://rr1.dens.tv/h/h16/index.m3u8
+
+#EXTINF:-1,MNC TV - HD
+https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1,MNC TV - SD
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-1,RCTI
+https://anevia114.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1,RCTI backup
+http://54.151.201.145:5566/GG/Live/RcTi/mpegts
+
+#EXTINF:-1,GTV - HD
+http://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1,GTV - SD
+https://vcdn2.rctiplus.id/live/eds/GTV2021/live_fta/GTV2021-avc1_800000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-1,iNews - HD
+http://anevia114.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1,INEWS - SD
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+
+#EXTINF:-1,SCTV 3
+https://k.ksa.my.id/ksa.m3u8?a=c38a7b272f9c6d07b2c3&b=769e18d2eae69a34056d&c=606f050f137c26cc67bb
+
+#EXTINF:-1,SCTV 1
+http://mpwtv.my.id/vidioye/204-sctv.m3u8
+
+#EXTINF:-1,SCTV 2
+http://geocities.ws/ariev7xx/indosiar.m3u8
+
+#EXTINF:-1,Moji TV - SD
+http://210.210.155.37/qwr9ew/s/s41/index.m3u8
+
+#EXTINF:-1,Moji TV - HD
+http://play.cornertv.biz.id:8080/live/Tt4ll6tVMG/dVs1rPEdkP/17.ts
+
+#EXTINF:-1,INDOSIAR 1
+http://play.cornertv.biz.id:8080/live/R5mAGm3YFm/KKiIsqvNvq/5.ts
+
+#EXTINF:-1,INDOSIAR 2
+https://etslive-2-vidio-com.akamaized.net/exp=1654740821~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=9d9531ad4b4dcd750f156755aa0f5da7b94f70d4ad801d4cc73c96af4344b929/vp9/205_stream.mpd
+
+#EXTINF:-1,ANTV HD
+http://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1,ANTV SD
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1,tvOne HD
+http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1,tvOne SD
+https://raw.githubusercontent.com/bmeidch/ytlok/main/tvone.m3u8
+
+#EXTINF:-1,NET TV - HD
+http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1,NET TV - SD
+http://210.210.155.37/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1,RTV
+http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1,RTV backup
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+
+#EXTINF:-1,Daai TV
+http://anevia114.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTINF:-1,DAAITV backup
+http://180.211.90.134:8000/play/a03w
+
+#EXTINF:-1,Kompas TV
+http://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1,KOMPAS TV backup
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+
+#EXTINF:-1,Metro TV
+http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1,METRO TV backup
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/11
+
+#EXTINF:-1,Trans TV HD
+http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1,Trans TV SD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
+#EXTINF:-1,Trans 7 HD
+http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1,Trans 7 SD
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
+
+#EXTINF:-1,TVRI
+http://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTINF:-1,TVRI backup
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/6
+
+#EXTINF:-1,The Indonesia Channel
+https://cdn3.wowza.com/1/NEtzTTZ4c1FTTUN2/SkJBbVJs/hls/live/playlist.m3u8
+
+#EXTINF:-1,JakTV
+http://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTINF:-1,JTV
+http://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTINF:-1,Bali TV
+http://Live-cdn.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+
+#EXTINF:-1,OK TV
+http://anevia114.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTINF:-1,TVRI WORLD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1,HBO HD
+http://liveaneviadev.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+https://liveaneviadev.mncnow.id:443/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1,HBO Family HD
+http://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:-1,HBO Hits HD
+http://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#EXTINF:-1,HBO Signature HD
+http://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:-1,CINEMAX HD
+http://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#EXTINF:-1,HBO (server 2)
+https://liveaneviadev.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+
+#EXTINF:-1,HBO FAM (avlive)
+https://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+
+#EXTINF:-1,HBO SIGNATURE
+https://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+
+#EXTINF:-1,HBO HITS
+https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+
+#EXTINF:-1,CINEMAX
+https://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+
+#EXTINF:-1,MUADZ TV
+https://h1.intechmedia.net/intech/ch5.m3u8
+
+#EXTINF:-1,WESAL TV
+https://h1.intechmedia.net/intech/ch18.m3u8
+
+#EXTINF:-1,AHSAN TV
+https://h1.intechmedia.net/intech/ch4.m3u8
+
+#EXTINF:-1,AL BAHJAH TV
+https://h1.intechmedia.net/intech/ch64.m3u8
+
+#EXTINF:-1,SURAU TV
+https://h1.intechmedia.net/intech/ch3.m3u8
+
+#EXTINF:-1,AL IMAN TV
+https://h1.intechmedia.net/intech/ch9.m3u8
+
+#EXTINF:-1,group-title="RELIGI" Naajiya TV
+https://h1.intechmedia.net/intech/ch7.m3u8
+
+#EXTINF:-1,group-title="RELIGI" ALFURQON TV
+https://h1.intechmedia.net/intech/ch24.m3u8
+
+#EXTINF:-1,Muhammadiyah TV🔻
+http://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1,Tawaf TV🔻
+http://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1,muslim TV🔻
+http://anevia114.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1,ALQUR'AN🔻
+http://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1,Makkah Live
+http://203.77.246.50:5000/udp/239.1.2.200:5000
+
+#EXTINF:-1,Madina Live
+http://203.77.246.50:5000/udp/239.1.2.204:5000
+
+#EXTINF:-1,MTA
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(b3673fde-4acd-4f1d-95a5-a204d62545ac)/manifest.mpd
+
+#EXTINF:-1,Rodja
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+
+#EXTINF:-1,DAAI
+https://mrpw.ptmnc01.verspective.net/?deviceId=ZGFkZmZkZjItYzQ1Mi0zM2RiLTk0OWQtM2M2YmY1YzZjMDNi
+
+#EXTINF:-1,TV9🔻
+http://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#EXTINF:-1,REMOFED 21🔻
+http://anevia114.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTINF:-1,Jowo Channel
+https://delivery.macan.network/stream/jowo/playlist.m3u8?token=mqj13k6&v=20200807
+
+#EXTINF:-1,BBS TV
+http://103.119.54.246:8080/hls/bbstv.m3u8
+
+#EXTINF:-1,Banten TV
+https://v2.siar.us/barayatv/live/chunks.m3u8
+
+#EXTINF:-1,Bandung TV
+http://anevia114.mncnow.id/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTINF:-1,Garda TV
+https://bintangtv.siar.us/bintangtv/live/chunks.m3u8
+
+#EXTINF:-1,Jogja TV
+https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+
+#EXTINF:-1,Duta TV
+https://o1.siar.us/dutatv/live/chunks.m3u8
+
+#EXTINF:-1,Jaya TV
+https://h1.intechmedia.net/intech/ch52.m3u8
+
+#EXTINF:-1,BETV Bengkulu
+https://h1.intechmedia.net/intech/ch58.m3u8
+
+#EXTINF:-1,RA TV
+https://h1.intechmedia.net/intech/ch59.m3u8
+
+#EXTINF:-1,Tegar TV
+http://wms.klikhost.com:1935/tegartv/tegartv/chunklist_w1639503258.m3u8
+
+#EXTINF:-1,Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+
+#EXTINF:-1,Elshinta TV
+http://rr2.dens.tv/s/s10/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Elshinta_TV
+
+#EXTINF:-1,Garuda TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
+
+#EXTINF:-1,Banyumas TV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+
+#EXTINF:-1,Puja TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTINF:-1,MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv_high-17440.m3u8
+
+#EXTINF:-1,Riau TV
+http://122.248.43.138:1935/ch11/myStream/chunklist_w235686384.m3u8
+
+#EXTINF:-1,Bayu TV
+https://5bf7b725107e5.streamlock.net/bayutvpersada/bayutvpersada/chunklist_w675386745.m3u8
+
+#EXTINF:-1,TATV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+
+#EXTINF:-1,Sampit TV
+https://alfa.kugo.id/sampittv/rtmp.stream/chunklist.m3u8
+
+#EXTINF:-1,Kawanua TV
+http://122.248.43.138:1935/ch18/myStream/chunklist_w766151197.m3u8
+
+#EXTINF:-1,Pontianak TV
+http://122.248.43.138:1935/ch15/myStream/chunklist_w1162794007.m3u8
+
+#EXTINF:-1,Padang TV
+http://122.248.43.138:1935/ch16/myStream/chunklist_w95313482.m3u8
+
+#EXTINF:-1,Sultra TV
+http://122.248.43.138:1935/ch20/myStream/chunklist_w1190267982.m3u8
+
+#EXTINF:-1,
+https://i.postimg.cc/K8kDyBGc/20221117-134856.png
+
+#EXTINF:-1,Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+
+#EXTINF:-1,ADI TV
+https://v2.siar.us/aditv/livestream/chunks.m3u8
+
+#EXTINF:-1,Tanjung Pinang TV
+http://103.30.246.47:1935/tvtpi/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1,Batam TV
+http://122.248.43.138:1935/ch5/myStream/chunklist.m3u8
+
+#EXTINF:-1,JPM TV
+http://122.248.43.138:1935/ch6/myStream/live.m3u8
+
+#EXTINF:-1,TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+
+#EXTINF:-1,Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1,SMTV
+http://122.248.43.138:1935/ch25/myStream/playlist.m3u8
+
+#EXTINF:-1,Balikapan TV
+http://122.248.43.138:1935/ch10/myStream/playlist.m3u8
+
+#EXTINF:-1,UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+
+#EXTINF:-1,JITV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1534412918.m3u8
+
+#EXTINF:-1,DMTV
+https://www.gemilang.tv/hls/?tv=dmtv-malang&bypass=false&token=amx4NTUxMURtNGZUTmNJendsZ2d4dWo4SGZhRllURnZTNW9RQUhPZlFya0FZaHFGZFlWS1VqSTcxbHN5RWtWNDo65yoo3jE%2FPYG8EdSVJji1MQ%3D%3D.m3u8
+
+#EXTINF:-1,ATVLI
+https://www.ubeetv.xyz/hls/?tv=atvli&data=REJzY2s0YXkva2pGemp3aWpFK1dOYzZRWm9iREtrV204VGxlb3Z5WFY0KzBoL0wyWDJIcVo2QlFTbUVDbWhlWUtyYzhjVUJWR2R5UGtleE4veU9WQys0L2lZak9YaFZpR0h6M2o5YnFSRWM9OjqbtoR3CkdR%2FLjU0YZIja%2Bm&token=WDVSdU1STks4VkZETngzSlNBSWpNaVZPUmI5UTFoaHJWUVBzRGY0cWNiWExpazFkM3NLTFlPRGJtMU5SUkU0cDo6l0zq3eOmGRDkh9OWaE8mqw==
+
+#EXTINF:-1,Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+
+#EXTINF:-1,PAL TV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+
+#EXTINF:-1,Sakti TV
+http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
+
+#EXTINF:-1,Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+
+#EXTINF:-1,TVRI Budaya
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI 3 Budaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Nasional
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:-1,TVRI Jakarta
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/index.m3u8
+
+#EXTINF:-1,TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
+
+#EXTINF:-1,TVRI Aceh
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bali
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Barat
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Tengah
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Jawa Timur
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalbar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+
+#EXTINF:-1,TVRI Kaltim
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+
+#EXTINF:-1,TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+
+#EXTINF:-1,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Riau
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulsel Makasar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulteng Palu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sulut Manado
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+
+#EXTINF:-1,TVRI Sumatra Selatan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(01)/index.m3u8
+
+#EXTINF:-1,Disney Channel
+http://185.59.223.102:8080/disney/index.m3u8
+
+#EXTINF:-1,Disney Jr 🇮🇳
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+#EXTINF:-1,Disney Junior
+https://cdn.cvattv.com.ar/live/c7eds//DisneyJr/SA_Live_dash_enc_2A/DisneyJr.mpd
+
+#EXTINF:-1,Disney Junior
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/513
+
+#EXTINF:-1,Horee
+http://tv.zonanime.my.id/vidio/horee.m3u8
+
+#EXTINF:-1,Hip Hip Horee
+http://tvn.x10.mx/1/master-2.m3u8?dl=1
+
+#EXTINF:-1,Mentari TV
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1,Happy Kids
+https://happykids-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Happy Kids JR
+https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Moonbug
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Baby First
+https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,PBS Kids
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-1,Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,The Official LEGO Channel
+https://legochannel-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Toon Goggles
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=985&deviceId=5d14fb6c84dd37df3b4290c5&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,Cbeebies
+http://anevia114.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:-1,Nick Jr
+http://anevia114.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1,Pluto TV Nick Jr. (720p)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=978&deviceId=5ca6748a37b88b269472dad9&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,ABC Kids
+https://c.mjh.nz/101002210222/
+
+#EXTINF:-1,Nickelodeon
+http://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1,Cartoon Network
+http://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+
+#EXTINF:-1,Boomerang
+http://anevia114.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#EXTINF:-1,KIDS TV
+http://anevia114.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1,Miao Mi ID
+http://anevia114.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd
+
+#EXTINF:-1,MKidz
+https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+
+#EXTINF:-1,Baby TV
+http://anevia114.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+
+#EXTINF:-1,VISION PRIME
+https://liveaneviadev.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTINF:-1,Imc
+https://av-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1,Galaxy
+http://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTINF:-1,Galaxy Premium
+http://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTINF:-1,ACTION MOVIES
+http://hpull.kktv8.com:80/livekktv/128600025/playlist.m3u8
+
+#EXTINF:-1,Rakuten Movies
+https://rakuten-actionmovies-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+#EXTINF:-1,WarnerTV
+http://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+
+#EXTINF:-1,Warner backup
+http://180.211.90.134:8000/play/a07r
+
+#EXTINF:-1,AXN
+http://anevia114.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1,AXN backup
+https://nonton.site:8443/indoneuetyhbsrt/bxbdrtyhevxh/37406
+
+#EXTINF:-1,Thrill
+http://anevia114.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTINF:-1,Cinema World
+http://anevia114.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTINF:-1,KIX
+http://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTINF:-1,FMN
+http://anevia114.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTINF:-1,SOne
+http://anevia114.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTINF:-1,ONE backup
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/55
+
+#EXTINF:-1,TVN
+http://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTINF:-1,TVN backup
+http://180.211.90.134:8000/play/a084
+
+#EXTINF:-1,TVN Movies
+http://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTINF:-1,CCM
+http://anevia114.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTINF:-1,Celestial Movies
+http://anevia114.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTINF:-1,Celestial Movies backup
+http://180.211.90.134:8000/play/a04r
+
+#EXTINF:-1,Zee Bioskop
+http://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTINF:-1,Animax
+http://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1,ANIMAX backup
+http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+
+#EXTINF:-1,Aniplus
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token
+
+#EXTINF:-1,HITS
+http://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTINF:-1,HITS Movies
+http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTINF:-1,AFF Cup - 1
+https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+
+#EXTINF:-1,AFF Cup - 2
+https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+
+#EXTINF:-1,Liga1 (1)
+http://xtv.ooo:8080/Mohammad/Mohammad123/228289
+
+#EXTINF:-1,Liga1 (2)
+http://mpwtv.my.id/vidioye/205-indosiar.m3u8
+
+#EXTINF:-1,Liga1 (3)
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-360.m3u8
+
+#EXTINF:-1,TVRI Sport HD
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Sony Sports Ten 1
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten1_hd.smil/manifest.mpd
+
+#EXTINF:-1,Sony Sports Ten 2
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten2_hd.smil/manifest.mpd
+
+#EXTINF:-1,Sony Sports Ten 3
+https://cdn-01.toffeelive.com/origin-09/live-origin/smil:sony_ten3_hd.smil/manifest.mpd
+
+#EXTINF:-1,Liga1 🅰&#65039; (Live only)
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip1-720.m3u8
+
+#EXTINF:-1,Liga1 🅱&#65039; (Live only)
+https://raw.githubusercontent.com/krismrp123/liveliga1/main/liga1klip2-720.m3u8
+
+#EXTINF:-1,AFC U-20 (Live only)
+https://raw.githubusercontent.com/krismrp123/champ1/main/affu19-720.m3u8
+
+#EXTINF:-1,BT Sports 1
+http://cineapp.org:8000/Fernando/Fernando/7451?checkedby:iptvcat.net
+
+#EXTINF:-1,ELEVEN 2
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159577.ts
+
+#EXTINF:-1,ELEVEN 3
+http://he11o.akadatel.com/iptv/N72VUE5RVUC6U3/2533/index.m3u8
+
+#EXTINF:-1,ELEVEN 4
+http://cineapp.org:8000/Fernando/Fernando/7454?checkedby:iptvcat.net1
+
+#EXTINF:-1,ELEVEN 5
+http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
+
+#EXTINF:-1,Soccer Channel
+http://anevia114.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1,MNC Sports
+http://anevia114.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTINF:-1,MNC Sports 2
+http://anevia114.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTINF:-1,MNC Sports 3
+http://anevia114.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
+
+#EXTINF:-1,Champion TV 1
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
+
+#EXTINF:-1,Champion TV 2
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
+
+#EXTINF:-1,Champion TV 3
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+
+#EXTINF:-1,DAZN 2
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc
+
+#EXTINF:-1,DAZN 1
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1StkDAvdaGkE2ZL55MyZPaRmemVdxHtqVMoXocC4AZ6Lp
+
+#EXTINF:-1,SkySport EPL
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sg74P7E2KVZTmncTKfs-ok66TR4WskgVMgVBV84udfR9
+
+#EXTINF:-1,True Premiere 1
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115516.m3u8
+
+#EXTINF:-1,True Premiere 2
+http://clientsportals.com:2095/live/eSN1tfXB/f6QW2ugz/115518.m3u8
+
+#EXTINF:-1,Unifi (UFC live)
+https://unifi-live04.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1,SUKAN rtm
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115615
+
+#EXTINF:-1,ASTRO SUPERSPORT 2
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115616
+
+#EXTINF:-1,ASTRO SUPERSPORT 3
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115617
+
+#EXTINF:-1,ASTRO SUPERSPORT 4
+http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115618
+
+#EXTINF:-1,SPOTV
+https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd
+
+#EXTINF:-1,SPOTV backup
+https://bcovlive-a.akamaihd.net/99545824f51f4c1592b35314c6ece3b0/ap-northeast-1/6271486521001/playlist.m3u8
+
+#EXTINF:-1,SPOTV 2
+http://anevia114.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1,SPOTV 2 backup
+https://bcovlive-a.akamaihd.net/48eee16919834d3b97df1082a649bcfa/ap-northeast-1/6271486521001/profile_1/chunklist.m3u8
+
+#EXTINF:-1,Fox Sports
+https://dizf8i52j4sep.cloudfront.net/out/v1/148af6c03e6d48b0a725611fae5ed3a7/index.mpd
+
+#EXTINF:-1,Fox Sports 2 🇪🇦
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/bca3f8d654aa4cb293e4e9801468a5a3/index.mpd
+
+#EXTINF:-1,Fox Sports 3 🇪🇦
+https://d14a5mi0m64mw7.cloudfront.net/out/v1/8a240d2e8a64453da6288810ede90a60/index.mpd
+
+#EXTINF:-1,Fox Sports 1  🇦🇷
+https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=8ad99f6512d50476639052a8fe8a4676&key=5ff3bee4cff05d3400d7ea60fcc93235
+
+#EXTINF:-1,Fox Sports 2  🇦🇷
+https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=c98ddffc470fe449ae1a8d6492116976&key=5086d370e840010232cf4532b16e197f
+
+#EXTINF:-1,Fox Sports 3  🇦🇷
+https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=55b47390cf9e4997dae6dac85e057875&key=fa39e855543c5d70f30600d59e5e4c1b
+
+#EXTINF:-1,Fox Sports 🇦🇷
+http://190.210.221.119/Processor3_10_chunklist_b1300000.m3u8
+
+#EXTINF:-1,Formula 1
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/159567
+
+#EXTINF:-1,Bein Premium 1
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94498
+
+#EXTINF:-1,Bein Premium 2
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94488
+
+#EXTINF:-1,Bein Premium 3
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94489
+
+#EXTINF:-1,beIN Sport Xtra
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,beIN Sports 1 🇮🇩
+http://anevia114.mncnow.id/live/eds/MrBein1/sa_dash_vmx/MrBein1.mpd
+
+#EXTINF:-1,beIN Sports 2
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94481
+
+#EXTINF:-1,beIN Sports 3 🇮🇩
+http://anevia114.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
+
+#EXTINF:-1,beIN Sports 4
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94474
+
+#EXTINF:-1,beIN Sports 5
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94470
+
+#EXTINF:-1,beIN Sports 6 🏍&#65039;🏎&#65039;
+http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/94464
+
+#EXTINF:-1,beIN 1 Arb
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94484&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1,beIN 2 Arb
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94480&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1,beIN 3 Arb
+http://clientsportals.tv/play/live.php?mac=00:1A:79:70:39:2a&stream=94476&extension=ts&play_token=TQ6cftyhX8
+
+#EXTINF:-1,RMC 1
+http://platin4k.eu:80/logantv/ACXhn9BC5m/161951
+
+#EXTINF:-1,RMC 2
+http://platin4k.eu:80/logantv/ACXhn9BC5m/63176
+
+#EXTINF:-1,RMC 3
+http://platin4k.eu:80/logantv/ACXhn9BC5m/161950
+
+#EXTINF:-1,Dubai Sports 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Db Sp 2 (ATP live 🥎)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,ABU DHABI SPORTS 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1,Strongman Champion League
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+#EXTINF:-1,128x075f-pad128x128f8f8f8.jpg"Dazn F1
+http://93.152.174.144:4000/play/ssportsf1/index.m3u8
+
+#EXTINF:-1,Sport TV 1
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/324.m3u8
+
+#EXTINF:-1,Sport TV 2
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/326.m3u8
+
+#EXTINF:-1,Sport TV 3
+http://platin4k.eu:80/live/eagleiptv/SsFAljPDDi/159584.ts
+
+#EXTINF:-1,Sport TV 4
+http://main.hostingterabyte.com:8080/live/Live.arabic5374148830/1685131765/1783.m3u8
+
+#EXTINF:-1,TVRI Sports
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1,Eurosport HD
+http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
+
+#EXTINF:-1,Eurosport 2
+http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
+
+#EXTINF:-1,Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1,UseeSports 1
+http://iptvid.my.id/hmm/useetl1.m3u8
+
+#EXTINF:-1,UseeSports 2
+http://iptvid.my.id/hmm/useetl2.m3u8
+
+#EXTINF:-1,NBA TV
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
+
+#EXTINF:-1,EDGE sports
+http://edgesport-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,Bellator MMA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,MAVTV
+https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,Ski TV
+https://d2xeo83q8fcni6.cloudfront.net/scheduler/scheduleMaster/193.m3u8
+
+#EXTINF:-1,FIGHT SPORTS
+http://anevia114.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1,Fight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,WWE
+http://185.59.223.102:8080/wwe/index.m3u8
+
+#EXTINF:-1,MLB
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,PBR RidePass
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d39387706fe50007fda8e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1,Discovery Channel
+http://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1,Nat Geo Wild
+http://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTINF:-1,National Geograpic
+http://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTINF:-1,BBC Earth
+http://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTINF:-1,BBC EARTH backup
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115622&extension=ts&play_token
+
+#EXTINF:-1,Crime Investigation
+http://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTINF:-1,Animal Planet
+http://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+
+#EXTINF:-1,History
+http://anevia114.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTINF:-1,BeSmart
+http://anevia114.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd
+
+#EXTINF:-1,small507x507-pad600x600f8f8f8.jpg" group-title="Knowledge"NASA TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1,CGTN Documentary
+http://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTINF:-1,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1,BeritaSatu World
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+
+#EXTINF:-1,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
+
+#EXTINF:-1,CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8
+
+#EXTINF:-1,IDX Channel
+http://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTINF:-1,Jakarta Globe
+https://b1english.beritasatumedia.com/Beritasatu/B1English_manifest.m3u8
+
+#EXTINF:-1,MGN TV
+https://edge.medcom.id/live-edge/smil:mgnch.smil/master.m3u8
+
+#EXTINF:-1,MNC News
+http://anevia114.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1,SEA Today
+http://anevia114.mncnow.id/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+#EXTINF:-1,TV PARLEMEN
+http://103.16.220.69:1935/golive/livestream/playlist.m3u8
+
+#EXTINF:-1,CBSN
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1,Global News
+https://live.corusdigitaldev.com/groupb/live/3062d0e3-ed4c-4f47-8482-95648250f4b8/live.isml/.m3u8
+
+#EXTINF:-1,LiveNOW from FOX
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,NBC
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
+
+#EXTINF:-1,Sky News
+https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+
+#EXTINF:-1,The First
+https://thefirst-distroscale.amagi.tv/index.m3u8
+
+#EXTINF:-1,TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+#EXTINF:-1,Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,Astro Awani
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8
+
+#EXTINF:-1,RT
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+
+#EXTINF:-1,TV5Monde Info
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+
+#EXTINF:-1,ABC Australia
+http://anevia114.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTINF:-1,NHK World Japan
+http://anevia114.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTINF:-1,CNA
+http://anevia114.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#EXTINF:-1,Aljazeera
+http://anevia114.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#EXTINF:-1,BBC World News
+http://anevia114.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTINF:-1,CNN International
+http://anevia114.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd
+
+#EXTINF:-1,CNN Int backup
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115634&extension=ts&play_token
+
+#EXTINF:-1,Euronews
+http://anevia114.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#EXTINF:-1,FOX News
+http://anevia114.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#EXTINF:-1,CNBC
+http://anevia114.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTINF:-1,Bloomberg
+http://anevia114.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#EXTINF:-1,FRANCE 24
+http://anevia114.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTINF:-1,DW News
+http://anevia114.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTINF:-1,CGTN
+http://anevia114.mncnow.id/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#EXTINF:-1,Sony GEM
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
+
+#EXTINF:-1,NHK World Premium
+http://anevia114.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:-1,Arirang
+http://anevia114.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTINF:-1,BS日テレ
+http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+
+#EXTINF:-1,BSTBS
+http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+
+#EXTINF:-1,BS12
+http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+
+#EXTINF:-1,Tokyo TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+
+#EXTINF:-1,Osaka TV
+https://cdn.us195.jpnettv.live/jptv/kansi_tv_osaka_540/playlist.m3u8
+
+#EXTINF:-1,Asahi TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+
+#EXTINF:-1,NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+
+#EXTINF:-1,0テレ
+http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+
+#EXTINF:-1,?1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+
+#EXTINF:-1,Fuji TV
+http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+
+#EXTINF:-1,Tokyo MX1
+http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+
+#EXTINF:-1,Sun TV
+https://cdn.us195.jpnettv.live/jptv/kansi_sun_tv_540/playlist.m3u8
+
+#EXTINF:-1,Yomiuri
+https://cdn.us195.jpnettv.live/jptv/kansi_yomiuri_540/playlist.m3u8
+
+#EXTINF:-1,NHK BS1
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/index.m3u8
+
+#EXTINF:-1,NHK BSP
+http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
+
+#EXTINF:-1,Star 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/index.m3u8
+
+#EXTINF:-1,Star 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/index.m3u8
+
+#EXTINF:-1,Star 3
+https://cdn.us195.jpnettv.live/jptv/starch3_720/playlist.m3u8
+
+#EXTINF:-1,Toei Channel
+https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
+
+#EXTINF:-1,Japan Sports 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/index.m3u8
+
+#EXTINF:-1,Japan Sports 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/index.m3u8
+
+#EXTINF:-1,Japan Sports 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/index.m3u8
+
+#EXTINF:-1,Japan TV G
+https://cdn.us195.jpnettv.live/jptv/japan_tv_G_540/playlist.m3u8
+
+#EXTINF:-1,Disney Channel 🇯🇵
+http://redlabmcdn.s.llnwi.net/nv02/bs13hd/index.m3u8
+
+#EXTINF:-1,Disney Jr 🇯🇵
+https://cdn.us195.jpnettv.live/jptv/disney_junior/playlist.m3u8
+
+#EXTINF:-1,FTV General
+https://cdn2live.sky4k.top/4gtv/?id=twms_BzIPTV_4K
+
+#EXTINF:-1,民視新聞台
+https://cdn2live.sky4k.top/4gtv/?id=twmsxwt_BzIPTV_4K
+
+#EXTINF:-1,民視旅遊台
+https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K
+
+#EXTINF:-1,民視台灣台
+https://cdn2live.sky4k.top/4gtv/?id=twmstw_BzIPTV_4K
+
+#EXTINF:-1,民視影劇台
+https://cdn2live.sky4k.top/4gtv/?id=twmsyj_BzIPTV_4K
+
+#EXTINF:-1,民視第一台
+https://cdn2live.sky4k.top/4gtv/?id=twmsdy_BzIPTV_4K
+
+#EXTINF:-1,民視綜藝台
+https://cdn2live.sky4k.top/4gtv/?id=twmszy_BzIPTV_4K
+
+#EXTINF:-1,SET 三立iNews
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/三立iNEWS.m3u8
+
+#EXTINF:-1,loading lm SET Taiwan (三立臺灣台)
+http://50.7.220.74:8278/sanlitaiwan/playlist.m3u8?ct=17874&tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb
+
+#EXTINF:-1,SET Variety (三立綜合台)
+http://50.7.220.74:8278/sanlizhonghe/playlist.m3u8?ct=17874&tid=m3362167a08a014596868&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
+
+#EXTINF:-1,JET TV (JET綜合台)
+http://50.7.220.74:8278/jettv_japan/playlist.m3u8?ct=19225&tid=MA7A4202687942026879&tsum=e84bc4851b9d6f6a18282c1efcb6ed1d
+
+#EXTINF:-1,GTV1 (八大第1台)
+http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
+
+#EXTINF:-1,GTV Entertainment (八大综合台)
+http://50.7.220.74:8278/badazhonghe/playlist.m3u8?ct=19225&tid=MC7C4692263546922635&tsum=ffdc7a6397b511103e0df0b92e678790
+
+#EXTINF:-1,TVB Jade (翡翠台)
+http://23.237.10.66:16106
+
+#EXTINF:-1,HOY TV
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+
+#EXTINF:-1,ELTA影劇
+http://50.7.220.74:8278/eltadrama_twn/playlist.m3u8?tid=mea60e416943110603068&ct=17874&tsum=ede38d2a218a34b5397af9d19e0c39a3
+
+#EXTINF:-1,EYE TV戏剧
+http://50.7.220.74:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&ct=17874&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586
+
+#EXTINF:-1,Viu TV
+http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514
+
+#EXTINF:-1,TVBS 欢乐台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+#EXTINF:-1,TVBS Entertainment Channel (TVBS歡樂台) (720p)
+http://50.7.220.74:8278/tvbshuanle_twn/playlist.m3u8?ct=19193&tid=MC8C2318787923187879&tsum=394d2b9af3df7846e2cdc60d69dd4219
+
+#EXTINF:-1,EBC Variety (東森綜合台)
+http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
+
+#EXTINF:-1,EBC Foreign Movie (東森洋片台)
+http://50.7.220.74:8278/ettvwestern/playlist.m3u8?ct=17874&tid=mfdfc048e6c2416337202&tsum=cad39b26202d525ea820bee1d69e545f
+
+#EXTINF:-1,EBC Movie (東森電影台)
+http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED1943740419437404&tsum=120834a4218c4b5c3bb19efb8116f859
+
+#EXTINF:-1,Taiwan News HD
+rtmp://59.124.75.138/sat/tv071
+
+#EXTINF:-1,中視新聞 HD
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中視新聞.m3u8
+
+#EXTINF:-1,CTV (CTV中視)
+http://50.7.220.74:8278/zhongshihd_twn/playlist.m3u8?ct=19226&tid=MB8B7313326473133264&tsum=ae7506028e559f3a6e2a3519b2f6a91e
+
+#EXTINF:-1,CTV Classic (中視經典台)
+http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?ct=18335&tid=mffe9aaf8765f&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
+
+#EXTINF:-1,CTi Variety (中天綜合台)
+http://23.237.10.66:16372
+
+#EXTINF:-1,中天新聞 HD
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/中天新聞.m3u8
+
+#EXTINF:-1,寰宇新聞台
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/寰宇新聞.m3u8
+
+#EXTINF:-1,鏡新聞
+https://raw.githubusercontent.com/LiuYi0526/IPTVnew/YTlive/鏡新聞.m3u8
+
+#EXTINF:-1,Dali大立电视台
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+#EXTINF:-1,Titv原住民频道
+http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+
+#EXTINF:-1,DAAI Tw
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+
+#EXTINF:-1,DAAI2 Tw
+https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+
+#EXTINF:-1,RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+
+#EXTINF:-1,RTHK32
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+
+#EXTINF:-1,HK Open
+http://livetv.dnsfor.me:80/channel.09.m3u8
+
+#EXTINF:-1,NEXT壹新聞
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+
+#EXTINF:-1,Hakka TV
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+
+#EXTINF:-1,cti News
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+
+#EXTINF:-1,cti Show
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+
+#EXTINF:-1,TVB J1台
+https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+#EXTINF:-1,CTV 中视
+rtmp://59.124.75.138/sat/tv091
+
+#EXTINF:-1,CTS 华视
+rtmp://59.124.75.138/sat/tv111
+
+#EXTINF:-1,緯來日本HD
+rtmp://59.124.75.138/sat/tv771
+
+#EXTINF:-1,纬来体育HD
+rtmp://59.124.75.138/sat/tv721
+
+#EXTINF:-1,纬来育乐HD
+rtmp://59.124.75.138/sat/tv701
+
+#EXTINF:-1,CBC 东森财经新闻
+rtmp://59.124.75.138:1935/sat/tv571
+
+#EXTINF:-1,MoMo综合台
+rtmp://59.124.75.138/sat/tv761
+
+#EXTINF:-1,SET 三立綜合台
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+
+#EXTINF:-1,SET 三立新聞
+http://59.125.101.187:8590/playlist.m3u8
+
+#EXTINF:-1,SET 三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+
+#EXTINF:-1,SET 三立台灣台
+http://59.125.101.187:8519/playlist.m3u8
+
+#EXTINF:-1,SET 三立都會台
+http://59.125.101.187:8522/playlist.m3u8
+
+#EXTINF:-1,北京IPTV4K
+http://livetv.dnsfor.me:80/channel.3.m3u8
+
+#EXTINF:-1,Now Xinwen
+http://livetv.dnsfor.me:80/channel.4.m3u8
+
+#EXTINF:-1,Now
+http://livetv.dnsfor.me:80/channel.8.m3u8
+
+#EXTINF:-1,i-CABLE News
+http://livetv.dnsfor.me:80/channel.5.m3u8
+
+#EXTINF:-1,i-CABLE Finance
+http://livetv.dnsfor.me:80/channel.6.m3u8
+
+#EXTINF:-1,i-CABLE live news
+http://livetv.dnsfor.me:80/channel.7.m3u8
+
+#EXTINF:-1,TVB经典台
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1,Blue Ant Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1,TLC
+http://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+
+#EXTINF:-1,AFN
+http://anevia114.mncnow.id/live/eds/AFN-HD/sa_dash_vmx/AFN-HD.mpd
+
+#EXTINF:-1,AFN backup
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/31
+
+#EXTINF:-1,Lifetime
+http://anevia114.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTINF:-1,Lifetime backup
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115629&extension=ts&play_token
+
+#EXTINF:-1,HGTV
+http://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+
+#EXTINF:-1,Lifestyle and Fashion
+http://anevia114.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTINF:-1,V2Beats
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,Prambors ID🔻
+https://cdn11jtedge.useetv.com/dass/130/pramborstv_dash/manifest_wuseetv.mpd?encp=eLFrXIfNDQMwqeZGpwgYcA&uid=&expp=1662899081
+
+#EXTINF:-1,MALEO TV
+https://bit.ly/mleot2
+
+#EXTINF:-1,MUSIC TV🔻
+http://anevia114.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTINF:-1,KPOP
+http://stream.semerutv.link:7780/freebies/EOti98qsWH/73
+
+#EXTINF:-1,MCM
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1,MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+
+#EXTINF:-1,MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1,CMT music
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+
+#EXTINF:-1,# #  INFO UPDATE
+https://ia601407.us.archive.org/9/items/update_playlist/update.mp4?cnt=0
+
+#EXTINF:-1,# The Violence Action (2022)
+https://data.streamku.xyz/mv/84a-viol.mp4
+
+#EXTINF:-1,# Black Adam (2022)
+https://data.streamku.xyz/mv/84a-black.mp4
+
+#EXTINF:-1,# Jeepers Creepers: Reborn (2022)
+https://data.streamku.xyz/mv/84a-jeeper.mp4
+
+#EXTINF:-1,# The Greatest Beer Run Ever (2022)
+https://data.streamku.xyz/mv/84a-great.mp4
+
+#EXTINF:-1,# Air Force The Movie: Selagi Bernyawa (2022)
+https://data.streamku.xyz/mv/84a-air.mp4
+
+#EXTINF:-1,# Morbius (2022)
+https://data.streamku.xyz/mv/84a-morbi.mp4
+
+#EXTINF:-1,# Aftersun (2022)
+https://data.streamku.xyz/mv/84a-after.mp4
+
+#EXTINF:-1,# Off Track (2022)
+https://data.streamku.xyz/mv/84a-spar.mp4
+
+#EXTINF:-1,# The Wonder (2022)
+https://data.streamku.xyz/mv/84a-wonder.mp4
+
+#EXTINF:-1,# B Cut (2022)
+https://data.streamku.xyz/mv/84a-cut.mp4
+
+#EXTINF:-1,# Stalked Within (2022)
+https://data.streamku.xyz/mv/84a-stalke.mp4
+
+#EXTINF:-1,# Manifest West (2022)
+https://data.streamku.xyz/mv/84a-manifest.mp4
+
+#EXTINF:-1,# The Harbinger (2022)
+https://data.streamku.xyz/mv/84a-harbing.mp4
+
+#EXTINF:-1,# Paradise Highway (2022)
+https://data.streamku.xyz/mv/84a-paradise.mp4
+
+#EXTINF:-1,# One Piece Film Red (2022)
+https://data.streamku.xyz/mv/84a-piece.mp4
+
+#EXTINF:-1,# Deus (2022)
+https://data.streamku.xyz/mv/84a-deus.mp4
+
+#EXTINF:-1,# Old Man (2022)
+https://data.streamku.xyz/mv/84a-old.mp4
+
+#EXTINF:-1,# Saani Kaayidham (2022)
+https://data.streamku.xyz/mv/83a-saani.mp4
+
+#EXTINF:-1,# Emergency Declaration (2022)
+https://data.streamku.xyz/mv/83a-emergency.mp4
+
+#EXTINF:-1,# Decision to Leave (2022)
+https://data.streamku.xyz/mv/83a-decision.mp4
+
+#EXTINF:-1,# Don&#8217;t Worry Darling (2022)
+https://data.streamku.xyz/mv/83a-worry.mp4
+
+#EXTINF:-1,# Poker Face (2022)
+https://data.streamku.xyz/mv/83a-poker.mp4
+
+#EXTINF:-1,# LiveScream (2022)
+https://data.streamku.xyz/mv/83a-live.mp4
+
+#EXTINF:-1,Mutant Tiger (2022)
+https://data.streamku.xyz/mv/82a-mutant.mp4
+
+#EXTINF:-1,Hansan: Rising Dragon (2022)
+https://data.streamku.xyz/mv/82a-hansan.mp4
+
+#EXTINF:-1,Lost Bullet 2 (2022)
+https://data.streamku.xyz/mv/82a-lost.mp4
+
+#EXTINF:-1,Naane Varuvean (2022)
+https://data.streamku.xyz/mv/82a-naane.mp4
+
+#EXTINF:-1,Slapface (2022)
+https://data.streamku.xyz/mv/82a-slap.mp4
+
+#EXTINF:-1,Dear Zoe (2022)
+https://data.streamku.xyz/mv/82a-dear.mp4
+
+#EXTINF:-1,Prey for the Devil (2022)
+https://data.streamku.xyz/mv/82a-prey.mp4
+
+#EXTINF:-1,Shadow Master (2022)
+https://data.streamku.xyz/mv/81a-shadow.mp4
+
+#EXTINF:-1,Pathonpatham Noottandu (2022)
+https://data.streamku.xyz/mv/81a-pathon.mp4
+
+#EXTINF:-1,Ghosts of Hiroshima (2022)
+https://data.streamku.xyz/mv/81a-ghost.mp4
+
+#EXTINF:-1,Beyond the Universe (2022)
+https://data.streamku.xyz/mv/81a-beyond.mp4
+
+#EXTINF:-1,Deadstream (2022)
+https://data.streamku.xyz/mv/81a-dead.mp4
+
+#EXTINF:-1,Come Back Home (2022)
+https://data.streamku.xyz/mv/81a-sou.mp4
+
+#EXTINF:-1,The Minute You Wake Up Dead (2022)
+https://data.streamku.xyz/mv/81a-minute.mp4
+
+#EXTINF:-1,The Willowbrook (2022)
+https://data.streamku.xyz/mv/81a-willow.mp4
+
+#EXTINF:-1,Game of Love (2022)
+https://data.streamku.xyz/mv/80a-game.mp4
+
+#EXTINF:-1,Route 10 (2022)
+https://data.streamku.xyz/mv/79a-route.mp4
+
+#EXTINF:-1,R.I.P.D. 2: Rise of the Damned (2022)
+https://data.streamku.xyz/mv/79a-ripd2.mp4
+
+#EXTINF:-1,Watcher (2022)
+https://data.streamku.xyz/mv/79a-watcher.mp4
+
+#EXTINF:-1,Causeway (2022)
+https://data.streamku.xyz/mv/78a-cause.mp4
+
+#EXTINF:-1,See How They Run (2022)
+https://data.streamku.xyz/mv/78a-see.mp4
+
+#EXTINF:-1,Pearl (2022)
+https://data.streamku.xyz/mv/78b-pearl.mp4
+
+#EXTINF:-1,Smile (2022)
+https://data.streamku.xyz/mv/78a-smi.mp4
+
+#EXTINF:-1,Hex (2022)
+https://data.streamku.xyz/mv/78a-hex.mp4
+
+#EXTINF:-1,Overdose (2022)
+https://data.streamku.xyz/mv/78a-over.mp4
+
+#EXTINF:-1,Enola Holmes 2 (2022)
+https://data.streamku.xyz/mv/78a-enola.mp4
+
+#EXTINF:-1,The Woman King (2022)
+https://data.streamku.xyz/mv/79a-woman.mp4
+
+#EXTINF:-1,The System (2022)
+https://data.streamku.xyz/mv/79a-system.mp4
+
+#EXTINF:-1,The Witch: Part 2. The Other One (2022)
+https://data.streamku.xyz/mv/77a-witch2.mp4
+
+#EXTINF:-1,Darlings (2022)
+https://data.streamku.xyz/mv/77a-darling.mp4
+
+#EXTINF:-1,Batman and Superman: Battle of the Super Sons (2022)
+https://data.streamku.xyz/mv/77a-batman.mp4
+
+#EXTINF:-1,The Takeover (2022)
+https://data.streamku.xyz/mv/77a-take.mp4
+
+#EXTINF:-1,Ponniyin Selvan: Part I (2022)
+https://data.streamku.xyz/mv/76a-ponni.mp4
+
+#EXTINF:-1,Project Wolf Hunting (2022)
+https://data.streamku.xyz/mv/76a-project.mp4
+
+#EXTINF:-1,Leio (2022)
+https://data.streamku.xyz/mv/76a-leio.mp4
+
+#EXTINF:-1,Cici (2022)
+https://data.streamku.xyz/mv/76a-cici.mp4
+
+#EXTINF:-1,Northern Skies Over Empty Space (2022)
+https://data.streamku.xyz/mv/76a-norte.mp4
+
+#EXTINF:-1,Feed Me (2022)
+https://data.streamku.xyz/mv/76a-feed.mp4
+
+#EXTINF:-1,Presence (2022)
+https://data.streamku.xyz/mv/76a-presence.mp4
+
+#EXTINF:-1,The Lair (2022)
+https://data.streamku.xyz/mv/76a-lair.mp4
+
+#EXTINF:-1,Mete miedo (2022)
+https://data.streamku.xyz/mv/76a-mete.mp4
+
+#EXTINF:-1,All Quiet on the Western Front (2022)
+https://data.streamku.xyz/mv/75-all.mp4
+
+#EXTINF:-1,Wild Is the Wind (2022)
+https://data.streamku.xyz/mv/75a-wild.mp4
+
+#EXTINF:-1,Hounded (2022)
+https://data.streamku.xyz/mv/75b-hounded.mp4
+
+#EXTINF:-1,Run Sweetheart Run (2022)
+https://data.streamku.xyz/mv/75a-run.mp4
+
+#EXTINF:-1,Sinphony: A Clubhouse Horror Anthology (2022)
+https://data.streamku.xyz/mv/75a-sinp.mp4
+
+#EXTINF:-1,Ticket to Paradise (2022)
+https://data.streamku.xyz/mv/74a-ticket.mp4
+
+#EXTINF:-1,Shin Ultraman (2022)
+https://data.streamku.xyz/mv/74a-shin.mp4
+
+#EXTINF:-1,Vendetta (2022)
+https://data.streamku.xyz/mv/74a-vendet.mp4
+
+#EXTINF:-1,Raymond & Ray (2022)
+https://data.streamku.xyz/mv/74a-raymond.mp4
+
+#EXTINF:-1,Nice View (2022)
+https://data.streamku.xyz/mv/73a-nice.mp4
+
+#EXTINF:-1,Vengeance (2022)
+https://data.streamku.xyz/mv/73a-venge.mp4
+
+#EXTINF:-1,Detective vs. Sleuths (2022)
+https://data.streamku.xyz/mv/72-detective.mp4
+
+#EXTINF:-1,The Retaliators (2022)
+https://data.streamku.xyz/mv/72-retali.mp4
+
+#EXTINF:-1,Hellhole (2022)
+https://data.streamku.xyz/mv/74a-hell.mp4
+
+#EXTINF:-1,The Good Nurse (2022)
+https://data.streamku.xyz/mv/74a-goodnurse.mp4
+
+#EXTINF:-1,BIG DREAM JOURNEY &#65306;Five Elements Mountain (2022)
+https://data.streamku.xyz/mv/49a-journey.mp4
+
+#EXTINF:-1,Sissy (2022)
+https://data.streamku.xyz/mv/73a-sissy.mp4
+
+#EXTINF:-1,Matriarch (2022)
+https://www.googleapis.com/drive/v3/files/1LjwNvGlK1km-7ebD_PuHQDXMTRywABLV?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,20th Century Girl (2022)
+https://data.streamku.xyz/mv/71-century.mp4
+
+#EXTINF:-1,Ammu (2022)
+https://data.streamku.xyz/mv/72-ammu.mp4
+
+#EXTINF:-1,Robbing Mussolini (2022)
+https://data.streamku.xyz/mv/74a-robb.mp4
+
+#EXTINF:-1,To Kill the Beast (2022)
+https://data.streamku.xyz/mv/74a-tokill.mp4
+
+#EXTINF:-1,35MM (2022)
+https://data.streamku.xyz/mv/74a-35mm.mp4
+
+#EXTINF:-1,Barbarian (2022)
+https://data.streamku.xyz/mv/73a-barbarian.mp4
+
+#EXTINF:-1,Dangerous Game: The Legacy Murders (2022)
+https://data.streamku.xyz/mv/72-danger.mp4
+
+#EXTINF:-1,Commando: Bloodline (2022)
+https://www.googleapis.com/drive/v3/files/1OXtCai-aR-m-9zt8QjuikSm1lRXCqk-4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,Slayers (2022)
+https://data.streamku.xyz/mv/74a-slayers.mp4
+
+#EXTINF:-1,Detective Knight: Rogue (2022)
+https://data.streamku.xyz/mv/75a-detect.mp4
+
+#EXTINF:-1,Terrifier 2 (2022)
+https://data.streamku.xyz/mv/72-terri.mp4
+
+#EXTINF:-1,Black Adam (2022)
+https://bambi.uploadfile.pl/pobierz/2218726---phf3.html?play
+
+#EXTINF:-1,The School for Good and Evil (2022)
+https://data.streamku.xyz/mv/69-school.mp4
+
+#EXTINF:-1,Feathers (2022)
+https://data.streamku.xyz/mv/69-feath.mp4
+
+#EXTINF:-1,The Loneliest Boy in the World (2022)
+https://data.streamku.xyz/mv/69-lone.mp4
+
+#EXTINF:-1,The Stranger (2022)
+https://data.streamku.xyz/mv/69-stranger.mp4
+
+#EXTINF:-1,Piggy (2022)
+https://data.streamku.xyz/mv/68-pig.mp4
+
+#EXTINF:-1,Dead for a Dollar (2022)
+https://data.streamku.xyz/mv/68-dead.mp4
+
+#EXTINF:-1,Misi (2022)
+https://data.streamku.xyz/mv/68-misi.mp4
+
+#EXTINF:-1,Blade of The 47 Ronin (2022)
+https://bambi.uploadfile.pl/pobierz/2218578---bkl0.html?play
+
+#EXTINF:-1,Tibetan Raiders (2022)
+https://bambi.uploadfile.pl/pobierz/2218577---7ap8.html?play
+
+#EXTINF:-1,Medieval (2022)
+https://bambi.uploadfile.pl/pobierz/2218579---oemh.html?play
+
+#EXTINF:-1,Defense: Secret Escort (2022)
+https://www.googleapis.com/drive/v3/files/1uUWtMT3kfgW3uMVSctX-l7X10rKqzxrT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,Halloween Ends (2022)
+https://www.googleapis.com/drive/v3/files/1ir3GdQZY1TJ4t2ye1Ju7hrL29-E03jSk?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,Dobaaraa (2022)
+https://data.streamku.xyz/mv/68-doba.mp4
+
+#EXTINF:-1,Old Man (2022)
+https://www.googleapis.com/drive/v3/files/15nKE_tcqzxc_Ue1SPeFytlkO_uuUjm2h?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,The Curse of Bridge Hollow (2022)
+https://data.streamku.xyz/mv/68-curse.mp4
+
+#EXTINF:-1,Sniper: The White Raven (2022)
+https://data.streamku.xyz/mv/34a-sniper.mp4
+
+#EXTINF:-1,Laal Singh Chaddha (2022)
+https://data.streamku.xyz/mv/64a-laal.mp4
+
+#EXTINF:-1,Kerosene (2022)
+https://data.streamku.xyz/mv/64a-kero.mp4
+
+#EXTINF:-1,Clerks III (2022)
+https://www.googleapis.com/drive/v3/files/14B4O_pb2En4L7KEyqBNV1QFkDLrnWydG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
+
+#EXTINF:-1,Bodies Bodies Bodies (2022)
+https://data.streamku.xyz/mv/68-bodi.mp4
+
+#EXTINF:-1,Fall (2022)
+https://data.streamku.xyz/mv/34a-fall.mp4
+
+#EXTINF:-1,Orphan: First Kill (2022)
+https://data.streamku.xyz/mv/64a-orphan.mp4
+
+#EXTINF:-1,Bullet Train (2022)
+https://data.streamku.xyz/mv/75a-bullet.mp4
+
+#EXTINF:-1,Memory (2022)
+https://v2.streamku.xyz/stream/360/21k0O5bPl9aoxTG/__001
+
+#EXTINF:-1,Luckiest Girl Alive (2022)
+https://data.streamku.xyz/mv/62a-luck.mp4
+
+#EXTINF:-1,Werewolf by Night (2022)
+https://data.streamku.xyz/mv/63a-were.mp4
+
+#EXTINF:-1,Hellraiser (2022)
+https://data.streamku.xyz/mv/62a-hell.mp4
+
+#EXTINF:-1,Beast (2022)
+https://data.streamku.xyz/mv/39a-beast.mp4
+
+#EXTINF:-1,God&#8217;s Country (2022)
+https://data.streamku.xyz/mv/60a-god.mp4
+
+#EXTINF:-1,Jeepers Creepers: Reborn (2022)
+https://data.streamku.xyz/mv/60a-jeep.mp4
+
+#EXTINF:-1,DC League of Super-Pets (2022)
+https://data.streamku.xyz/mv/54a-dc.mp4
+
+#EXTINF:-1,Hunt (2022)
+https://data.streamku.xyz/mv/56a-hunt.mp4
+
+#EXTINF:-1,God&#8217;s Creatures (2022)
+https://data.streamku.xyz/mv/61a-gods.mp4
+
+#EXTINF:-1,The Greatest Beer Run Ever (2022)
+https://data.streamku.xyz/mv/55a-great.mp4
+
+#EXTINF:-1,Hocus Pocus 2 (2022)
+https://data.streamku.xyz/mv/55a-hocus.mp4
+
+#EXTINF:-1,Blonde (2022)
+https://data.streamku.xyz/mv/53a-blonde.mp4
+
+#EXTINF:-1,JugJugg Jeeyo (2022)
+https://data03.streamku.xyz/mv/9a-jug.mp4
+
+#EXTINF:-1,The Enforcer (2022)
+https://data.streamku.xyz/mv/49a-enfor.mp4
+
+#EXTINF:-1,I Used to Be Famous (2022)
+https://v2.streamku.xyz/stream/360/teLi79c9JTNpLCq/__001
+
+#EXTINF:-1,The Infernal Machine (2022)
+https://data.streamku.xyz/mv/54a-infer.mp4
+
+#EXTINF:-1,Section 8 (2022)
+https://data.streamku.xyz/mv/5a-section.mp4
+
+#EXTINF:-1,Thor: Love and Thunder (2022)
+https://data.streamku.xyz/mv/78a-thorlove.mp4
+
+#EXTINF:-1,Do Revenge (2022)
+https://v2.streamku.xyz/stream/360/H4dp98FHHKoQWuF/__001
+
+#EXTINF:-1,Olivia Rodrigo: driving home 2 u (2022)
+https://streamku.xyz/stream/360/VZIKzBUEosUKAeg/__001
+
+#EXTINF:-1,The Invitation (2022)
+https://data.streamku.xyz/mv/68-invit.mp4
+
+#EXTINF:-1,Cracked (2022)
+https://streamku.xyz/stream/360/Cjpj6yUvEZ19fTp/__001
+
+#EXTINF:-1,Cha Cha Real Smooth (2022)
+https://v2.streamku.xyz/stream/360/irwHNNBLCD3KjVU/__001
+
+#EXTINF:-1,Elvis (2022)
+https://data03.streamku.xyz/mv/18a-elvis.mp4
+
+#EXTINF:-1,Emily the Criminal (2022)
+https://data.streamku.xyz/mv/41a-emily.mp4
+
+#EXTINF:-1,Pinocchio (2022)
+https://data.streamku.xyz/mv/38a-pino.mp4
+
+#EXTINF:-1,Crimes of the Future (2022)
+https://streamku.xyz/stream/360/07DDxmxkvkkT7Sp/__001
+
+#EXTINF:-1,Minions: The Rise of Gru (2022)
+https://data03.streamku.xyz/mv/30a-minions.mp4
+
+#EXTINF:-1,Wire Room (2022)
+https://data.streamku.xyz/mv/36a-wire.mp4
+
+#EXTINF:-1,Lightyear (2022)
+https://data03.streamku.xyz/mv/21a-lightyear.mp4
+
+#EXTINF:-1,Me Time (2022)
+https://data03.streamku.xyz/mv/29a-me.mp4
+
+#EXTINF:-1,Seoul Vibe (2022)
+https://data03.streamku.xyz/mv/29a-seoul.mp4
+
+#EXTINF:-1,Samaritan (2022)
+https://data03.streamku.xyz/mv/29a-samaritan.mp4
+
+#EXTINF:-1,The Girl on a Bulldozer (2022)
+https://streamku.xyz/stream/360/WMgURrMEYrHcnNb/__001
+
+#EXTINF:-1,The Battle at Lake Changjin II (2022)
+https://data03.streamku.xyz/mv/a-water.mp4
+
+#EXTINF:-1,Jurassic World Dominion (2022)
+https://data03.streamku.xyz/mv/13a-jurassic.mp4
+
+#EXTINF:-1,Top Gun: Maverick (2022)
+https://data03.streamku.xyz/mv/28a-top.mp4
+
+#EXTINF:-1,Secret Headquarters (2022)
+https://data03.streamku.xyz/mv/19a-secret.mp4
+
+#EXTINF:-1,Luck (2022)
+https://data03.streamku.xyz/mv/14a-luck.mp4
+
+#EXTINF:-1,Prey (2022)
+https://data03.streamku.xyz/mv/14a-prey.mp4
+
+#EXTINF:-1,Sonic the Hedgehog 2 (2022)
+https://streamku.xyz/stream/360/U5BHzCv0761oN6m/__001
+
+#EXTINF:-1,Fast & Feel Love (2022)
+https://streamku.xyz/stream/360/6xAqv90N04vhrgt/__001
+
+#EXTINF:-1,2037 (2022)
+https://streamku.xyz/stream/360/4GLZYpBS2Ng6FI8/__001
+
+#EXTINF:-1,Purple Hearts (2022)
+https://data03.streamku.xyz/mv/11a-purple.mp4
+
+#EXTINF:-1,The Lost City (2022)
+https://streamku.xyz/stream/360/XEYNsWBQ3RJAG5y/__001
+
+#EXTINF:-1,Paradise Highway (2022)
+https://data03.streamku.xyz/mv/11a-paradise.mp4
+
+#EXTINF:-1,Honor Society (2022)
+https://data03.streamku.xyz/mv/11a-honor.mp4
+
+#EXTINF:-1,Not Okay (2022)
+https://data03.streamku.xyz/mv/20a-not.mp4
+
+#EXTINF:-1,The Roundup (2022)
+https://data03.streamku.xyz/mv/7a-roundup.mp4
+
+#EXTINF:-1,Broker (2022)
+https://v2.streamku.xyz/stream/360/ccrbsMhYM8L4nw9/__001
+
+#EXTINF:-1,The Gray Man (2022)
+https://data03.streamku.xyz/mv/6a-gray.mp4
+
+#EXTINF:-1,Dual (2022)
+https://streamku.xyz/stream/360/Lb1c6hUmUKbqYkt/__001
+
+#EXTINF:-1,Vikram (2022)
+https://data03.streamku.xyz/mv/6a-vikram.mp4
+
+#EXTINF:-1,The Policeman&#8217;s Lineage (2022)
+https://streamku.xyz/stream/360/zdaay69J7ZLa6d8/__001
+
+#EXTINF:-1,Doctor Strange in the Multiverse of Madness (2022)
+https://streamku.xyz/stream/360/qpA1eRCFAjlmDWU/__001
+
+#EXTINF:-1,The Sea Beast (2022)
+https://v2.streamku.xyz/stream/360/XebjyHpgou6wy2j/__001
+
+#EXTINF:-1,Firestarter (2022)
+https://v2.streamku.xyz/stream/360/4jwH9R6oVecpfmA/__001
+
+#EXTINF:-1,Everything Everywhere All at Once (2022)
+https://data.streamku.xyz/mv/63a-every.mp4
+
+#EXTINF:-1,The Cellar (2022)
+https://streamku.xyz/stream/360/CEvXabDcMVZNnTk/__001
+
+#EXTINF:-1,The Princess (2022)
+https://streamku.xyz/stream/360/lKQZFHts9XyU75s/__001
+
+#EXTINF:-1,Fantastic Beasts: The Secrets of Dumbledore (2022)
+https://streamku.xyz/stream/360/LyMF8ppkgriVfxJ/__001
+
+#EXTINF:-1,The Unbearable Weight of Massive Talent (2022)
+https://v2.streamku.xyz/stream/360/6tAaqoqrkE5N1ov/__001
+
+#EXTINF:-1,Bhool Bhulaiyaa 2 (2022)
+https://v2.streamku.xyz/stream/360/QYmb60s03neFFOF/__001
+
+#EXTINF:-1,Spiderhead (2022)
+https://v2.streamku.xyz/stream/360/RrBTmamNroEkdp9/__001
+
+#EXTINF:-1,Infinite Storm (2022)
+https://v2.streamku.xyz/stream/360/Z2dexa0yZoPo9WQ/__001
+
+#EXTINF:-1,Ip Man: The Awakening (2022)
+https://v2.streamku.xyz/stream/360/3XFl3KgrzKFM9HZ/__001
+
+#EXTINF:-1,Father of the Bride (2022)
+https://v2.streamku.xyz/stream/360/eUWKHumPRla0fo7/__001
+
+#EXTINF:-1,Morbius (2022)
+https://streamku.xyz/stream/360/4k0U9El8oA3lD6E/__001
+
+#EXTINF:-1,Ambulance (2022)
+https://streamku.xyz/stream/360/7TJY4wXkX0oNmgw/__001
+
+#EXTINF:-1,The Northman (2022)
+https://streamku.xyz/stream/360/d0pqLGnJq3IqWRo/__001
+
+#EXTINF:-1,Downton Abbey: A New Era (2022)
+https://v2.streamku.xyz/stream/360/okO85dQehatE4Zp/__001
+
+#EXTINF:-1,The Contractor (2022)
+https://streamku.xyz/stream/360/cW6aO0c6oyuMV69/__001
+
+#EXTINF:-1,Hustle (2022)
+https://streamku.xyz/stream/360/b9lP622y2tP0Feg/__001
+
+#EXTINF:-1,Sarkaru Vaari Paata (2022)
+https://streamku.xyz/stream/360/9zBJXpW8XmdurRm/__001
+
+#EXTINF:-1,Runway 34 (2022)
+https://streamku.xyz/stream/360/RPaTdT7th07kfcU/__001
+
+#EXTINF:-1,Father Stu (2022)
+https://streamku.xyz/stream/360/pWQkaORJ0bmTD0F/__001
+
+#EXTINF:-1,Last Seen Alive (2022)
+https://data.streamku.xyz/mv/56a-last.mp4
+
+#EXTINF:-1,Agent Game (2022)
+https://streamku.xyz/stream/360/UlgTovMPdyU6k9t/__001
+
+#EXTINF:-1,A Day to Die (2022)
+https://streamku.xyz/stream/360/vNLDfHuaS4N7UPE/__001
+
+#EXTINF:-1,The Bad Guys (2022)
+https://streamku.xyz/stream/360/YZ8EUWU5cUpDjeT/__001
+
+#EXTINF:-1,The Batman (2022)
+https://streamku.xyz/stream/360/xfJ5HdmyTbRwwIZ/__001
+
+#EXTINF:-1,The Valet (2022)
+https://streamku.xyz/stream/360/neguWKOD0bqrXNO/__001
+
+#EXTINF:-1,Chip &#8216;n Dale: Rescue Rangers (2022)
+https://streamku.xyz/stream/360/ZNcDqbFWjMd9ywV/__001
+
+#EXTINF:-1,K.G.F: Chapter 2 (2022)
+https://streamku.xyz/stream/360/hPpc5C910yB5vWX/__001
+
+#EXTINF:-1,The Takedown (2022)
+https://streamku.xyz/stream/360/GZFC8DEnJPr8h7T/__001
+
+#EXTINF:-1,Blacklight (2022)
+https://streamku.xyz/stream/360/YAlEhi0QuNIpz6i/__001
+
+#EXTINF:-1,Warhunt (2022)
+https://streamku.xyz/stream/360/Jnw9CBzAa5SR20y/__001
+
+#EXTINF:-1,Gasoline Alley (2022)
+https://streamku.xyz/stream/360/edhT7td5yefMJ28/__001
+
+#EXTINF:-1,Death on the Nile (2022)
+https://streamku.xyz/stream/360/MoLHYBZMTZk2C5V/__001
+
+#EXTINF:-1,Panama (2022)
+https://streamku.xyz/stream/360/MZdwW5h01PEoZGm/__001
+
+#EXTINF:-1,Munich: The Edge of War (2022)
+https://streamku.xyz/stream/360/86uR0PLY1CWvjza/__001
+
+#EXTINF:-1,The 355 (2022)
+https://streamku.xyz/stream/360/avwWdFB7sjyCDeY/__001
+
+#EXTINF:-1,Hotel Transylvania: Transformania (2022)
+https://v2.streamku.xyz/stream/360/z8p7xrae4FaUrq0/__001
+
+#EXTINF:-1,Smile (CAM) (2022)
+https://stream.xpeer.xyz/new1.php?id=ce53feb83e38bf92941bb59c884c286c61473c86
+
+#EXTINF:-1,The Autopsy of Jane Doe (2016)
+https://stream.xpeer.xyz/new1.php?id=4efb7177d01dad5eae8273c0c0f882a7df24e407
+
+#EXTINF:-1,Black Adam (CAM) (2022)
+https://stream.xpeer.xyz/new1.php?id=f24a363ab7c89c294dcbd8d0c3c8312e731c452a
+
+#EXTINF:-1,Joker (2019)
+https://stream.xpeer.xyz/new1.php?id=288e88a6868ade2ae5449ecaeaf0eb001d2cabb3
+
+#EXTINF:-1,Ghostbusters: Afterlife (2021)
+https://stream.xpeer.xyz/new1.php?id=670015d5a40fec25e011d12a5f83cedeec8bd598
+
+#EXTINF:-1,Ghostbusters: Answer the Call (2016)
+https://stream.xpeer.xyz/new1.php?id=bf29657af4df6904abd1d332f3fad6d5483d078e
+
+#EXTINF:-1,Mr. Bean&#8217;s Holiday (2007)
+https://stream.xpeer.xyz/new1.php?id=c8d3961f4a18bbca7fe6b935020564ecbfff52a2
+
+#EXTINF:-1,Johnny English Reborn (2011)
+https://stream.xpeer.xyz/new1.php?id=0752156b57774874046d8441e157ee8271a54791
+
+#EXTINF:-1,Johnny English Strikes Again (2018)
+https://stream.xpeer.xyz/new1.php?id=493dcffc6450ad94dfe79cd291024b7792d8aaef
+
+#EXTINF:-1,Conjuring: The Beyond (2022)
+https://stream.xpeer.xyz/new1.php?id=c824bddbec3fcf23afb6b055f799f6e6d6a2b8d8
+
+#EXTINF:-1,Flight/Risk (2022)
+https://stream.xpeer.xyz/new1.php?id=81647db6f768a2e1ff8220f43f26fd0a37e1bd44
+
+#EXTINF:-1,Emily the Criminal (2022)
+https://stream.xpeer.xyz/new1.php?id=b855680a1d02666850539abb092f764c2cf8b6a5
+
+#EXTINF:-1,Ek Villain Returns (2022)
+https://stream.xpeer.xyz/new1.php?id=73615d51879ebd74ea70485b2c28d1b212e8d80d
+
+#EXTINF:-1,VR (Vikrant Rona) (2022)
+https://stream.xpeer.xyz/new1.php?id=c017adfea3feb40be6c5d4fd164e4129633ed35e
+
+#EXTINF:-1,Miracle in Cell No. 7 (2019)
+https://stream.xpeer.xyz/new1.php?id=e8aa03b237c649dfb0adfd89687e308adfcbdcaa
+
+#EXTINF:-1,Mat Kilau (2022)
+https://stream.xpeer.xyz/new1.php?id=40046228c56e66e8c83a4d1fc8299d1394a5ce0f
+
+#EXTINF:-1,Obi-Wan Kenobi: A Jedi&#8217;s Return (2022)
+https://stream.xpeer.xyz/new1.php?id=59fb2beb219ab29f835719dd9bd7744da553f2a9
+
+#EXTINF:-1,Miracle in Cell No. 7 (2013)
+https://stream.xpeer.xyz/new1.php?id=ea0269ec6274af688c99071eb80fa93c089c9582
+
+#EXTINF:-1,Beast (2022)
+https://stream.xpeer.xyz/new1.php?id=a9b41d771bd9178199ecba54e83f827275479af5
+
+#EXTINF:-1,Sniper. The White Raven (2022)
+https://stream.xpeer.xyz/new1.php?id=8fa3b5826a3cf4269050bfdf5704c4f6714c2af5
+
+#EXTINF:-1,Hansan: Rising Dragon (2022)
+https://stream.xpeer.xyz/new1.php?id=2321046345d7fad612f4aa04f3d0c3e5310f2dbb
+
+#EXTINF:-1,Fall (2022)
+https://stream.xpeer.xyz/new1.php?id=e8924e0b52ec0602b063876b6692bd2fa4163d16
+
+#EXTINF:-1,Fallen (2022)
+https://stream.xpeer.xyz/new1.php?id=8852b6f4879f60fe0c3542fe41b4a29444ea9d4b
+
+#EXTINF:-1,Pinocchio (2022)
+https://stream.xpeer.xyz/new1.php?id=8815e9b143f6cf892cc66ec39b618a08aa46ad19
+
+#EXTINF:-1,Emergency Declaration (2022)
+https://stream.xpeer.xyz/new1.php?id=f7b5bdfa38eee0f622b729fa263058b375b752a8
+
+#EXTINF:-1,The Gray Man (2022)
+https://stream.xpeer.xyz/new1.php?id=2e1ef10acb309fda0273d6e0fa502e7b2a8c03e8
+
+#EXTINF:-1,Top Gun: Maverick (2022)
+https://stream.xpeer.xyz/new1.php?id=ea83a1396dc0b198a3ddbc536755382c6c941840
+
+#EXTINF:-1,Thor: Love and Thunder (2022)
+https://stream.xpeer.xyz/new1.php?id=dd6434e88273a43e2908150434ce05f337f8f9b5
+
+#EXTINF:-1,Minions: The Rise of Gru (2022)
+https://stream.xpeer.xyz/new1.php?id=93c43d7c14cfe305a1d9847460994318339a55bf
+
+#EXTINF:-1,Jurassic World Dominion (2022)
+https://stream.xpeer.xyz/new1.php?id=f603acf29d391cbf44c726efc4e118d61c88cebb
+
+#EXTINF:-1,Doctor Strange in the Multiverse of Madness (2022)
+https://stream.xpeer.xyz/new1.php?id=f31234d9ec9c7a1f5e925c2d8ce17b5bec6df2ae
+
+#EXTINF:-1,Ip Man: The Awakening (2022)
+https://stream.xpeer.xyz/new1.php?id=d9bd9c82f82f0e59c67a2350630f98b880191f08
+
+#EXTINF:-1,F9 Fast & Furious 9 (2021)
+https://stream.xpeer.xyz/new1.php?id=5bd1d7738afabe217a3883fc399e8b7110ee8d70
+
+#EXTINF:-1,The Boss Baby (2017)
+https://stream.xpeer.xyz/new1.php?id=2b247571063701e2d521c942de6d3cf65c25bcce
+
+#EXTINF:-1,The Boss Baby: Family Business (2021)
+https://stream.xpeer.xyz/new1.php?id=963a806e37ea6396bc997f717163553ebdda1cd8
+
+#EXTINF:-1,The Spy Who Never Dies (2022)
+https://stream.xpeer.xyz/new1.php?id=a6a0419b616cc57bc18307274f172d4277dec2cb
+
+#EXTINF:-1,Attack (2022)
+https://stream.xpeer.xyz/new1.php?id=57dd9d65758f4a83442964eb39a5577d83254b4a
+
+#EXTINF:-1,The Siege of Robin Hood (2022)
+https://stream.xpeer.xyz/new1.php?id=52d291d11530140c91c5bd569922e047cc781904
+
+#EXTINF:-1,The Hero Named Koxinga (2022)
+https://stream.xpeer.xyz/new1.php?id=efe1840004bd4cfd1c63260c3a9f91b725df7942
+
+#EXTINF:-1,Hustle (2022)
+https://stream.xpeer.xyz/new1.php?id=5e1304455c9015ca55c68f44739f91d1f80d51bd
+
+#EXTINF:-1,Last Seen Alive (2022)
+https://stream.xpeer.xyz/new1.php?id=52607e4c9b6ae2b0a84d5a68870ca791b209e893
+
+#EXTINF:-1,The Cellar (2022)
+https://stream.xpeer.xyz/new1.php?id=c9c4929a740aeb70377a0efae0a90dcf8a0dc226
+
+#EXTINF:-1,Sonic the Hedgehog (2020)
+https://stream.xpeer.xyz/new1.php?id=feb1be15827620f4755a2c48f0a6a40f92280822
+
+#EXTINF:-1,Sonic the Hedgehog 2 (2022)
+https://stream.xpeer.xyz/new1.php?id=e1487b321d793faec02b45ff93368a282ac85779
+
+#EXTINF:-1,Morbius (2022)
+https://stream.xpeer.xyz/new1.php?id=e99421c8d2eeebcdd1156ac26ca166a14e2ed78c
+
+#EXTINF:-1,Uncharted (2022)
+https://stream.xpeer.xyz/new1.php?id=5c0bf80f6e70c33b6a7a2a37aaebc83bbf849818
+
+#EXTINF:-1,Fantastic Beasts and Where to Find Them (2016)
+https://stream.xpeer.xyz/new1.php?id=cb953505bb2f071e186c2711bf9c2425aa5f1efc
+
+#EXTINF:-1,Fantastic Beasts: The Crimes of Grindelwald (2018)
+https://stream.xpeer.xyz/new1.php?id=548454e6ea74ba681992daccadbe5923040931dd
+
+#EXTINF:-1,Fantastic Beasts: The Secrets of Dumbledore (2022)
+https://stream.xpeer.xyz/new1.php?id=67967976b48a44ce12d616687c0c4432873177df
+
+#EXTINF:-1,The Batman (2022)
+https://stream.xpeer.xyz/new1.php?id=0497c0ecef59da49c8f21cb96da920e56fadac04
+
+#EXTINF:-1,Spider-Man: No Way Home (2021)
+https://stream.xpeer.xyz/new1.php?id=769d9398ae502878b9b8b4bbe56733573a187e5e
+
+#EXTINF:-1,The Lost City (2022)
+https://stream.xpeer.xyz/new1.php?id=5900d1513d6e9cec993c9d09cd73a9ff34476c04
+
+#EXTINF:-1,Ambulance (2022)
+https://stream.xpeer.xyz/new1.php?id=31f41a530c835fb774ab97d1f0f2b40a45c0be96
+
+#EXTINF:-1,Moonfall (2022)
+https://stream.xpeer.xyz/new1.php?id=4fb09fa5508cc0bee73b3be8ad67128eb312b7a7
+
+#EXTINF:-1,Yaksha: Ruthless Operations (2022)
+https://stream.xpeer.xyz/new1.php?id=9f9d7ea972766fb162f304b73d4297f74c5ee999
+
+#EXTINF:-1,The Northman (2022)
+https://stream.xpeer.xyz/new1.php?id=2be23c3dc77b191051694ea480b81dc7af78dfa4
+
+#EXTINF:-1,Turning Red (2022)
+https://stream.xpeer.xyz/new1.php?id=091de05c305b4f4f012eb3fad4e700133a769509
+
+#EXTINF:-1,Memory (2022)
+https://stream.xpeer.xyz/new1.php?id=dbc7ee82999ba8b12b3803051187d59b9f5ca971
+
+#EXTINF:-1,The Bad Guys (2022)
+https://stream.xpeer.xyz/new1.php?id=eb19397a83a3f00e2b73fbd584f9af79c19038ba
+
+#EXTINF:-1,The Princess (2022)
+https://stream.xpeer.xyz/new1.php?id=017527889199c1087f6e9e49055568a6c3f1a651
+
+#EXTINF:-1,Homesick (De naermeste) (2015)
+https://stream.xpeer.xyz/new1.php?id=68c49449c07be0ec1ce43302e47c7868b0e0ad9a
+
+#EXTINF:-1,Folk Legends: The Water Monkeys (2022)
+https://stream.xpeer.xyz/new1.php?id=032003d346076bf58496139bd4baaff121ae42d5
+
+#EXTINF:-1,OnlyFans (2022)
+https://stream.xpeer.xyz/new1.php?id=1bdecb8880474649044bd50a33c2f1faf3e642a4
+
+#EXTINF:-1,The Man from Toronto (2022)
+https://stream.xpeer.xyz/new1.php?id=b414f3ec7d6f96f41b9c1b60fe40237996107b18
+
+#EXTINF:-1,The Exorcist (2022)
+https://stream.xpeer.xyz/new1.php?id=a80cd299c58e7cee6bd05ef6d465c17175ccf400
+
+#EXTINF:-1,Cracked (2022)
+https://stream.xpeer.xyz/new1.php?id=2940a98692098c89ec9861f0ca7ee4a980a39281
+
+#EXTINF:-1,Resident Evil: Welcome to Raccoon City (2021)
+https://stream.xpeer.xyz/new1.php?id=8f1821627eb94c4d5b1921b2ee4cb9c8d151c01a
+
+#EXTINF:-1,Hot Blooded (2022)
+https://stream.xpeer.xyz/new1.php?id=ff5bfd1da7dee4dda5b7ed792b10b2fd0736f09b
+
+#EXTINF:-1,Dhaakad (2022)
+https://stream.xpeer.xyz/new1.php?id=6263eb70bf32bf36e1e49627c72ec2e5ed2543a8
+
+#EXTINF:-1,Anek (2022)
+https://stream.xpeer.xyz/new1.php?id=7c6dd7791b7585d477a107b8488601d47097c6e1
+
+#EXTINF:-1,Samrat Prithviraj (2022)
+https://stream.xpeer.xyz/new1.php?id=9e1e103472d01578d33090788d7e331f8b8732e3
+
+#EXTINF:-1,The Legend of Yang Jian (2022)
+https://stream.xpeer.xyz/new1.php?id=2d22771aa82d55b5eaf90723b5e37930fbf5a560
+
+#EXTINF:-1,Everything Everywhere All at Once (2022)
+https://stream.xpeer.xyz/new1.php?id=18976112b65bce3f597d495fac4b9c941d38b875
+
+#EXTINF:-1,The Sea Beast (2022)
+https://stream.xpeer.xyz/new1.php?id=725fee5061bbc12c9e5f08039b4f59ffce6cb1e3
+
+#EXTINF:-1,Fresh (2022)
+https://stream.xpeer.xyz/new1.php?id=30a30469cc53466ae598c0e3266799a4bfc4da1a
+
+#EXTINF:-1,Avengers: Endgame (2019)
+https://stream.xpeer.xyz/new1.php?id=cf892fe48fed32dd09530493276ac11a7731f94d
+
+#EXTINF:-1,Code Name Banshee (2022)
+https://stream.xpeer.xyz/new1.php?id=b1f8c5a0276ce168061fb363f4c78fc7da77667d
+
+#EXTINF:-1,Finch (2021)
+https://stream.xpeer.xyz/new1.php?id=c1c22007acdf163489eb931ec642ebea2dbf3374
+
+#EXTINF:-1,The Last Victim (2022)
+https://stream.xpeer.xyz/new1.php?id=0905365fcc2d7086c881512eb9049ff7fd43bf22
+
+#EXTINF:-1,Minions Holiday Special (2020)
+https://stream.xpeer.xyz/new1.php?id=cc9b86888f9719c4d23b6d7012133a566410668c
+
+#EXTINF:-1,Lightyear (2022)
+https://stream.xpeer.xyz/new1.php?id=b42f5d4fbfe0ae4b73c6111c643c49198b3c3a1a
+
+#EXTINF:-1,The Policeman&#8217;s Lineage (2022)
+https://stream.xpeer.xyz/new1.php?id=40497359460eddfe0b74b3db99ef6fc37ca07f40
+
+#EXTINF:-1,La pasajera (2022)
+https://stream.xpeer.xyz/new1.php?id=75df761056d385e30ab81f645fe2503fa90ef1e9
+
+#EXTINF:-1,The Monkey King: Reborn (2021)
+https://stream.xpeer.xyz/new1.php?id=484f1b686e4f6d15638ab6f612ca33d5e1e91091
+
+#EXTINF:-1,The Monkey King (2022)
+https://stream.xpeer.xyz/new1.php?id=e40182581c95cf2d19ad97e406aad6c228c34097
+
+#EXTINF:-1,11th Hour Cleaning (2022)
+https://stream.xpeer.xyz/new1.php?id=30d00a7ccfb8851db1c99e25781b4ac297796c6a
+
+#EXTINF:-1,The Handmaiden (Ah-ga-ssi) (2016)
+https://stream.xpeer.xyz/new1.php?id=35e6ade9b41ee98474439ec1542b99a27e926fb4
+
+#EXTINF:-1,3 Idiots (2009)
+https://stream.xpeer.xyz/new1.php?id=6f1b9134b75d6fe9a132443b9eac466a4660e043
+
+#EXTINF:-1,Rab Ne Bana Di Jodi (2008)
+https://stream.xpeer.xyz/new1.php?id=f861c446c043b25500397fe483d3acfbe32ed926
+
+#EXTINF:-1,Dilwale (2015)
+https://stream.xpeer.xyz/new1.php?id=1e3e68aa744418c28634d5306390d49f97720aaa
+
+#EXTINF:-1,Mohabbatein (2000)
+https://stream.xpeer.xyz/new1.php?id=e0224ad36d9bb5f05b86bf5617ccfd60231b53ae
+
+#EXTINF:-1,CJ7 (Cheung gong 7 hou) (2008)
+https://stream.xpeer.xyz/new1.php?id=591edbf530f9ace80b822b3a781c6c6229332787
+
+#EXTINF:-1,Kung Fu Hustle (Kung fu) (2004)
+https://stream.xpeer.xyz/new1.php?id=009301be4ff5de40de5bae9696594f695a1f5a90
+
+#EXTINF:-1,Shaolin Soccer (Siu Lam juk kau) (2001)
+https://stream.xpeer.xyz/new1.php?id=233fd9d16f5aa966679b18bef6a4164207bd2c10
+
+#EXTINF:-1,King of Comedy (Hei kek ji wong) (1999)
+https://stream.xpeer.xyz/new1.php?id=541f35c1cff4511b10c02029ca2a3ddd7ce17ca0
+
+#EXTINF:-1,The Mermaid (Mei ren yu) (2016)
+https://stream.xpeer.xyz/new1.php?id=53c309ad4b4a04ca6d219a16284fed7e4bf6298f
+
+#EXTINF:-1,Journey to the West (Xi you: Xiang mo pian) (2013)
+https://stream.xpeer.xyz/new1.php?id=1dc0b4ec34706e0e26cbbc0d20d8f28a93657266
+
+#EXTINF:-1,PK (2014)
+https://stream.xpeer.xyz/new1.php?id=85aebb7055b40e8308ec95478760881d16b67847
+
+#EXTINF:-1,Day Shift (2022)
+https://stream.xpeer.xyz/new1.php?id=51631865dd5bbf442fcaad3905ffc7be2fe86180
+
+#EXTINF:-1,Inception (2010)
+https://stream.xpeer.xyz/new1.php?id=74bfad48db79eef56519b0acff359260df23d757
+
+#EXTINF:-1,Hantu Budeg (2012)
+https://storage.googleapis.com/b458263421913c0e2b8.appspot.com/dcfd9e1dc974eae60c63c18be6a4c346_1622868784.mp4?sumber=awal_storage
+
+#EXTINF:-1,Kuntilanak 3 (2022)
+http://172.96.161.72/
