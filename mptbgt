@@ -1,0 +1,256 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="http://x1.cdn.broiptv.com/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/nba.png" group-title="SPORTS", NBA TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://66.70.176.103:8081/USA%7CNBATV/USA%7CNBATV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="LOCAL", ANTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://210.210.155.37/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVOne (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvone.png" group-title="LOCAL", TVOne (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Net TV" tvg-logo="http://x1.cdn.broiptv.com/img/net.png" group-title="LOCAL", Net TV
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="http://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7 (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="http://x1.cdn.broiptv.com/img/idx.png" group-title="NEWS", IDX
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Bali TV" tvg-logo="http://x1.cdn.broiptv.com/img/balitv.png" group-title="LOCAL", Bali TV
+#EXTVLCOPT:http-user-agent=""
+http://Live-cdn.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/beritasatu.png" group-title="NEWS", Berita Satu (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="http://x1.cdn.broiptv.com/img/mycinema.png" group-title="MOVIES", My Cinema
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Hits (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="MOVIES", Hits (Backup)
+#EXTVLCOPT:http-user-agent=""
+https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-id="" tvg-name="JakTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", JakTV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TV9 NU" tvg-logo="http://x1.cdn.broiptv.com/img/tv9.png" group-title="RELIGI", TV9 NU
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="http://x1.cdn.broiptv.com/img/arirang.png" group-title="ENTERTAINMENT", Arirang
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+#EXTINF:-1 tvg-id="" tvg-name="AlQuran Kareem (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/alquran.png" group-title="RELIGI", AlQuran Kareem (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Tawaf TV" tvg-logo="http://x1.cdn.broiptv.com/img/tawaftv.png" group-title="RELIGI", Tawaf TV
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="http://x1.cdn.broiptv.com/img/rodjatv.png" group-title="RELIGI", Rodja TV
+#EXTVLCOPT:http-user-agent=""
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(6f7158e4-f151-45dd-874f-e02c15c7cd4b)/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="http://x1.cdn.broiptv.com/img/tvn.png" group-title="ENTERTAINMENT", TVN
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="http://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="MOVIES", TVN Movies
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="http://x1.cdn.broiptv.com/img/daaitv.png" group-title="LOCAL", DAAI TV
+#EXTVLCOPT:http-user-agent=""
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="http://x1.cdn.broiptv.com/img/galaxy.png" group-title="MOVIES", Galaxy
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="http://x1.cdn.broiptv.com/img/galaxy_premium.png" group-title="MOVIES", Galaxy Premium
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="History (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="" tvg-name="iNews TV" tvg-logo="http://x1.cdn.broiptv.com/img/inews.png" group-title="LOCAL", iNews TV
+#EXTVLCOPT:http-user-agent=""
+https://vcdn2.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC News" tvg-logo="http://x1.cdn.broiptv.com/img/mncnews.png" group-title="LOCAL", MNC News
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kix (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/kix.png" group-title="ENTERTAINMENT", Kix (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/warner.png" group-title="MOVIES", Warner TV (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="http://x1.cdn.broiptv.com/img/cgtndocumentary.png" group-title="KNOWLEDGE", CGTN Documentary
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://x1.cdn.broiptv.com/img/hgtv.png" group-title="KNOWLEDGE", HGTV
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Kplus (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/kplus.png" group-title="ENTERTAINMENT", Kplus (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK World Japan" tvg-logo="http://x1.cdn.broiptv.com/img/nhkworld.png" group-title="ENTERTAINMENT", NHK World Japan
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Sony GEM" tvg-logo="http://x1.cdn.broiptv.com/img/sgem.png" group-title="ENTERTAINMENT", Sony GEM
+#EXTVLCOPT:http-user-agent=""
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142787.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tlc.png" group-title="KNOWLEDGE", TLC (Backup)
+#EXTVLCOPT:http-user-agent=""
+http://anevia114.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="http://x1.cdn.broiptv.com/img/antv.png" group-title="LOCAL", ANTV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVOne" tvg-logo="http://x1.cdn.broiptv.com/img/tvone.png" group-title="LOCAL", TVOne
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 1" tvg-logo="http://x1.cdn.broiptv.com/img/champions1.png" group-title="SPORTS", Champions TV 1
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228341.ts
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 2" tvg-logo="http://x1.cdn.broiptv.com/img/champions2.png" group-title="SPORTS", Champions TV 2
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://xtv.ooo:8080/live/Mohammad/Mohammad123/228244.ts
+#EXTINF:-1 tvg-id="" tvg-name="Champions TV 3" tvg-logo="http://x1.cdn.broiptv.com/img/champions3.png" group-title="SPORTS", Champions TV 3
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="http://x1.cdn.broiptv.com/img/sctv.png" group-title="LOCAL", SCTV HD
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://nonton.wap.sh/id/009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar HD" tvg-logo="http://x1.cdn.broiptv.com/img/indosiar.png" group-title="LOCAL", Indosiar HD
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://k.ksa.my.id/ksa.m3u8?a=11c29c48146372ad4d14&b=204991a99793a98926d2&c=8f5ffddd6e9165aa1117
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://x1.cdn.broiptv.com/img/moji.png" group-title="LOCAL", Moji
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://play.cornertv.biz.id:8080/live/Tt4ll6tVMG/dVs1rPEdkP/17.ts
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="http://x1.cdn.broiptv.com/img/kompastv.png" group-title="LOCAL", Kompas TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(dc9040ad-a4e1-4d08-883c-a65542b69602)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="JTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/jtv.png" group-title="LOCAL", JTV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://x1.broiptv.com/play/farishputra5@gmail.com/69845313/xbZEZIWN/gerbil/9713_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="http://x1.cdn.broiptv.com/img/beritasatu.png" group-title="NEWS", Berita Satu
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="http://x1.cdn.broiptv.com/img/metrotv.png" group-title="LOCAL", Metro TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="http://x1.cdn.broiptv.com/img/transtv.png" group-title="LOCAL", Trans TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="http://x1.cdn.broiptv.com/img/trans7.png" group-title="LOCAL", Trans 7
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Jaktv" tvg-logo="http://x1.cdn.broiptv.com/img/jaktv.png" group-title="LOCAL", Jaktv
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/rtv.png" group-title="LOCAL", Rajawali TV (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVRI (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvri.png" group-title="LOCAL", TVRI (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="http://x1.cdn.broiptv.com/img/nusantaratv.png" group-title="LOCAL", Nusantara TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mentari TV" tvg-logo="http://x1.cdn.broiptv.com/img/mentari_tv.png" group-title="KIDS", Mentari TV
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://x1.broiptv.com/play/farishputra5@gmail.com/69845313/xbZEZIWN/gerbil/8237_gerbil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVN (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvn.png" group-title="ENTERTAINMENT", TVN (Backup)
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://180.211.90.134:8000/play/a084
+#EXTINF:-1 tvg-id="" tvg-name="Zee Bioskop" tvg-logo="http://x1.cdn.broiptv.com/img/zbioskop.png" group-title="MOVIES", Zee Bioskop
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="http://x1.cdn.broiptv.com/img/zoomoo.png" group-title="KIDS", Zoomoo
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hip Horee" tvg-logo="http://x1.cdn.broiptv.com/img/hiphiphoree.png" group-title="KIDS", Hip Hip Horee
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://tvn.x10.mx/1/master-2.m3u8?dl=1
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="http://x1.cdn.broiptv.com/img/horee.png" group-title="KIDS", Horee
+#EXTVLCOPT:http-user-agent="KmkExoVideoView/1.15.5-WITH_ADS"
+http://tv.zonanime.my.id/vidio/horee.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://x1.cdn.broiptv.com/img/hbo.png" group-title="MOVIES", HBO HD
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+http://liveaneviadev.mncnow.id/live/eds/hbo-2/sa_dash_vmx/hbo-2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_signature.png" group-title="MOVIES", HBO Signature
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+http://anevia114.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_hits.png" group-title="MOVIES", HBO Hits
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+https://anevia114.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="http://x1.cdn.broiptv.com/img/hbo_family.png" group-title="MOVIES", HBO Family
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+http://av-live-cdn.mncnow.id/live/eds/HBOFamily2/sa_dash_vmx/HBOFamily2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://x1.cdn.broiptv.com/img/cinemax.png" group-title="MOVIES", Cinemax
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36"
+http://anevia114.mncnow.id/live/eds/CinemaxHD2/sa_dash_vmx/CinemaxHD2.mpd
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="http://x1.cdn.broiptv.com/img/RCTI.png" group-title="LOCAL", RCTI
+https://vcdn2.rctiplus.id/live/eds/MNCTV_2021/live_fta/MNCTV_2021-avc1_800000=6-mp4a_96000=2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="http://x1.cdn.broiptv.com/img/gtv.png" group-title="LOCAL", GTV
+http://anevia114.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="http://x1.cdn.broiptv.com/img/mnc_tv.png" group-title="LOCAL", MNCTV
+https://anevia114.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/tvnmovies.png" group-title="MOVIES", TVN Movies (Backup)
+http://anevia114.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="http://x1.cdn.broiptv.com/img/hits.png" group-title="MOVIES", Hits
+http://anevia114.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="http://x1.cdn.broiptv.com/img/hits_movies.png" group-title="MOVIES", Hits Movies
+http://anevia114.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="http://x1.cdn.broiptv.com/img/animax.png" group-title="ENTERTAINMENT", Animax
+http://anevia114.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+#EXTINF:-1 tvg-id="" tvg-name="ANIPlus" tvg-logo="http://x1.cdn.broiptv.com/img/aniplus.png" group-title="ENTERTAINMENT", ANIPlus
+http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115609&extension=ts&play_token
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="http://x1.cdn.broiptv.com/img/natgeo.png" group-title="KNOWLEDGE", National Geographic Channel
+http://anevia114.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Wild" tvg-logo="http://x1.cdn.broiptv.com/img/natgeowild.png" group-title="KNOWLEDGE", National Geographic Wild
+http://anevia114.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/discovery.png" group-title="KNOWLEDGE", Discovery Channel (Backup)
+http://anevia114.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="http://x1.cdn.broiptv.com/img/history.png" group-title="KNOWLEDGE", History
+http://anevia114.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
+#EXTINF:-1 tvg-id="" tvg-name="HGTV (Backup)" tvg-logo="http://x1.cdn.broiptv.com/img/hgtv.png" group-title="KNOWLEDGE", HGTV (Backup)
+http://anevia114.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Crime Investigation" tvg-logo="http://x1.cdn.broiptv.com/img/crimeinvestigation.png" group-title="KNOWLEDGE", Crime Investigation
+http://x1.broiptv.com/play/farishputra5@gmail.com/69845313/xbZEZIWN/norvegicus/crime_investigation_norvegicus/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://x1.cdn.broiptv.com/img/axn.png" group-title="MOVIES", AXN
+http://anevia114.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="http://x1.cdn.broiptv.com/img/warner.png" group-title="MOVIES", Warner TV
+http://anevia114.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="http://x1.cdn.broiptv.com/img/animal_planet.png" group-title="KNOWLEDGE", Animal Planet
+http://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="http://x1.cdn.broiptv.com/img/nickelodeon.png" group-title="KIDS", Nickelodeon
+http://anevia114.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Nick Junior" tvg-logo="http://x1.cdn.broiptv.com/img/nickjr.png" group-title="KIDS", Nick Junior
+http://anevia114.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="http://x1.cdn.broiptv.com/img/cartoonnetwork.png" group-title="KIDS", Cartoon Network
+http://anevia114.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="http://x1.cdn.broiptv.com/img/disney_xd.png" group-title="KIDS", Disney XD
+http://185.59.223.102:8080/disney/index.m3u8
