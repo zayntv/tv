@@ -163,9 +163,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch326%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch324%29/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
-http://210.210.155.37/dr9445/h/h15/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Rock Action - [Channel 248].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/b104eede/2fe8_r32.jpg" group-title="Premium Movies",Rock Action
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -428,9 +430,11 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch332%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
-http://210.210.155.37/dr9445/h/h16/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTINF:-1 tvg-id="Rock Entertainment - [Channel 240].id" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.mncnow.id/images/channel/72287d1c/3aef_r32.jpg" group-title="Entertainment & LifeStyle",Rock Entertainment
+https://nyanv-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #EXTINF:-1 tvg-id="HGTVAsia.us" tvg-url="https://s.id/KITKATTV" tvg-logo="https://mncvision.id/userfiles/image/channel/HGTV_150x150px-01.png" group-title="Entertainment & LifeStyle",HGTV 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -628,6 +632,85 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch344%29/index
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch345%29/index.m3u8
 
+<=============================== EPL and LaLiga =========================>
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/47
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/48
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/49
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/703/853/png-transparent-2016-17-premier-league-2015-16-premier-league-2018-19-premier-league-2013-14-premier-league-2017-18-premier-league-others-thumbnail.png",Supersport Premiere League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/55
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/56
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",SuperSport Laliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/57
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/80
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png,SkySport Premiere League
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/127
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png",SkySport Football
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/128
+
+#EXTINF:-1  group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/163
+
+#EXTINF:-1  group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/164
+
+EXTINF:-1  group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/165
+
+EXTINF:-1  group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/166
+
+EXTINF:-1  group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/167
+
+#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="World Soccer League", True Premier HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="World Soccer League", True Premier HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.youdooball.com/
+https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premiere 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/149
+
+#EXTINF:-1 group-title="World Soccer League" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premiere 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.113.116.150:25461/mtm1/12345/150
+
+
+
+
 <============================ Sports ========================>
 
 #EXTINF:-1 group-title="Sports" tvg-id="Sportstars - [Channel 102].id" tvg-url="https://s.id/KITKATTV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1 HD
@@ -693,17 +776,6 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 
 <============================================== Test Sports ============================================>
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png",Astro Super Sport
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/47
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport2.my" tvg-chno="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png",Astro Super Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/48
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport3.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png",Astro Super Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/49
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="AstroSuperSport4.my" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png",Astro Super Sport 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -728,18 +800,6 @@ http://103.113.116.150:25461/mtm1/12345/53
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo=https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png",Optus Sport 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/54
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://w7.pngwing.com/pngs/703/853/png-transparent-2016-17-premier-league-2015-16-premier-league-2018-19-premier-league-2013-14-premier-league-2017-18-premier-league-others-thumbnail.png",Supersport Premiere League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/55
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png",SuperSport FootBall
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/56
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",SuperSport Laliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/57
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://saeseries.com/wp-content/uploads/2023/12/Motorsportpng_-1024x275.png",SuperSport Motorsport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -777,10 +837,6 @@ http://103.113.116.150:25461/mtm1/12345/75
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/76
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/80
-
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png",TNT Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/81
@@ -804,14 +860,6 @@ http://103.113.116.150:25461/mtm1/12345/123
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/800px-Fox_Sports_logo1.svg.png",FOX SPORT 507 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/124
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png,SkySport Premiere League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/127
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Sky_Sport_Football_-_Logo_2020.svg/1280px-Sky_Sport_Football_-_Logo_2020.svg.png",SkySport Football
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/128
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/Sky-sports-main-event.jpg",SkySport Main Event
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -841,25 +889,6 @@ http://103.113.116.150:25461/mtm1/12345/162
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/155
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/163
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/164
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/165
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/166
-
-EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.pngkit.com/png/detail/28-288122_eleven-sports-hq-eleven-sports-png.png",DAZN Eleven Sport 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/167
 
 #EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://icdb.tv/images/979e9916cdf9294a1ed7bb8301c98b86.jpg",BeinSport 1 English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -873,14 +902,6 @@ http://103.113.116.150:25461/mtm1/12345/147
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://103.113.116.150:25461/mtm1/12345/148
 
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png",Hub Premiere 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/149
-
-#EXTINF:-1 group-title="Sports" tvg-url="https://s.id/KITKATTV"  tvg-id="" tvg-chno="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png",Hub Premiere 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://103.113.116.150:25461/mtm1/12345/150
-
 <================================================= Server lain =======================================>
 
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/0df06bc563f4f3bf615dc3ea7e55fb8c.png" group-title="Sports",beIN Sports 1
@@ -890,16 +911,6 @@ http://iptvtree.net:8080/F14995/a84c0963/165105
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ba5a124ab816d4a371da240396786a62.png" group-title="Sports",beIN Sports 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 http://iptvtree.net:8080/F14995/a84c0963/298506
-
-#EXTINF:1 tvg-id="TruePremierFootball1.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="Sports", True Premier HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
-
-#EXTINF:1 tvg-id="TruePremierFootball2.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="Sports", True Premier HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://youdooball.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
 #EXTINF:1 tvg-id="TruePremierFootball3.th" tvg-logo="https://i.postimg.cc/vBC00YZJ/20220927-064509.png" group-title="Sports", True Premier HD 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
